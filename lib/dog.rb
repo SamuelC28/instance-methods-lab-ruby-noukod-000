@@ -6,7 +6,7 @@ class Dog
  def sit
    puts "The Dog is sitting"
 end
-
+end
 #Instantiate other instances
 
 fido = Dog.new
